@@ -7,7 +7,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaechanghyeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
   
 🌎 Email: batto5302@gmail.com
-  
+<br>  
+
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">  
@@ -20,10 +21,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=white"> <br>
- 
+<br>
+  
 ## 🙊 GitHub States & Most used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baechanghyeon&layout=compact&theme=dark)](https://github.com/baechanghyeon/github-readme-stats) <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baechanghyeon&show_icons=true&theme=dark)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baechanghyeon&show_icons=true&theme=dark)<br> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baechanghyeon&hide=python&layout=compact&theme=dark)](https://github.com/baechanghyeon/github-readme-stats) <br>
 
 </div>
 
