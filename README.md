@@ -21,9 +21,5 @@
 <img src="https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=white"> <br>
 <br>
   
-## 🙊 GitHub States & Most used
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baechanghyeon&show_icons=true&theme=dark)<br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baechanghyeon&hide=python&layout=compact&theme=dark)](https://github.com/baechanghyeon/github-readme-stats) <br>
-
 </div>
 
