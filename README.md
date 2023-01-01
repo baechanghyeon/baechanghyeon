@@ -1,3 +1,4 @@
+
 <div align="center">
   
   <h2>프론트엔드 개발자, 배창현 입니다.
@@ -22,4 +23,11 @@
 <br>
   
 </div>
-
+---
+### 📕 Latest Blog Posts </h3> 
+[2022/12/29 - What is SEO?](https://velog.io/@bbatto5302/What-is-SEO) <br/>
+[2022/12/22 - 얕은 복사, 깊은 복사 📖](https://velog.io/@bbatto5302/%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC) <br/>
+[2022/12/15 - Redux에 대해서](https://velog.io/@bbatto5302/Redux%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C) <br/>
+[2022/12/10 - 원티드 프론트엔드 프리온보딩 회고 (3)](https://velog.io/@bbatto5302/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%9A%8C%EA%B3%A0-3) <br/>
+[2022/12/10 - 원티드 프론트엔드 프리온보딩 회고 (2)](https://velog.io/@bbatto5302/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%9A%8C%EA%B3%A0-2) <br/>
+[2022/12/09 - 원티드  프론트엔드 프리온보딩 회고 (1)](https://velog.io/@bbatto5302/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%9A%8C%EA%B3%A0-1) <br/>
