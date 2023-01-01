@@ -23,7 +23,7 @@
 <br>
   
 </div>
-
+---
 ### 📕 Latest Blog Posts </h3> 
 [2022/12/29 - What is SEO?](https://velog.io/@bbatto5302/What-is-SEO) <br/>
 [2022/12/22 - 얕은 복사, 깊은 복사 📖](https://velog.io/@bbatto5302/%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC) <br/>
