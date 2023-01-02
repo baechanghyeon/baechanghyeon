@@ -29,7 +29,7 @@ markdown_text = """
 <br>
   
 </div>
----
+
 ### 📕 Latest Blog Posts </h3> 
 """ # list of blog posts will be appended here
 
