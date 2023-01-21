@@ -25,9 +25,9 @@
 </div>
 
 ### 📕 Latest Blog Posts </h3> 
+[2023/01/20 - ES6 이후의 이야기 (2)](https://velog.io/@bbatto5302/ES6-%EC%9D%B4%ED%9B%84%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-2) <br/>
 [2023/01/18 - Redux-example 파헤쳐보기](https://velog.io/@bbatto5302/Redux-example-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EA%B8%B0) <br/>
 [2023/01/12 - ES6 이후의 이야기 (1)](https://velog.io/@bbatto5302/ES6-%EC%9D%B4%ED%9B%84%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1) <br/>
 [2023/01/05 - Ajax, fetch,  Axios 이해 해보기 🥴](https://velog.io/@bbatto5302/Ajax-fetch-Axios-%EC%9D%B4%ED%95%B4-%ED%95%B4%EB%B3%B4%EA%B8%B0) <br/>
 [2022/12/29 - What is SEO?](https://velog.io/@bbatto5302/What-is-SEO) <br/>
 [2022/12/22 - 얕은 복사, 깊은 복사 📖](https://velog.io/@bbatto5302/%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC) <br/>
-[2022/12/15 - Redux에 대해서](https://velog.io/@bbatto5302/Redux%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C) <br/>
